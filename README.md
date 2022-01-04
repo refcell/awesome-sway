@@ -61,7 +61,7 @@
 
 - [Sway Project Scaffold](https://github.com/a5f9t4/crib) - A template scaffold for Sway projects.
 
-##### Built / Deployed on StarkNet
+##### Built / Deployed with Sway
 
 #### Jobs
 
