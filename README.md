@@ -32,7 +32,7 @@
     - [Articles](#articles)
     - [Security](#security)
     - [Examples](#examples)
-      - [Built / Deployed on StarkNet](#built--deployed-on-starknet)
+      - [Built / Deployed with Sway](#built--deployed-with-sway)
     - [Jobs](#jobs)
 - [Libraries](#libraries)
 - [Tools](#tools)
